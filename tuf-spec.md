@@ -3,7 +3,7 @@ Title: The Update Framework Specification
 Shortname: TUF
 Status: LS
 Abstract: A framework for securing software update systems.
-Date: 2026-01-22
+Date: 2026-07-15
 Editor: Justin Cappos, NYU
 Editor: Trishank Karthik Kuppusamy, Apple
 Editor: Joshua Lock, Verizon
@@ -16,7 +16,7 @@ Boilerplate: copyright no, conformance no
 Local Boilerplate: header yes
 Markup Shorthands: css no, markdown yes
 Metadata Include: This version off, Abstract off
-Text Macro: VERSION 1.0.34
+Text Macro: VERSION 1.0.35
 </pre>
 
 Note: We strive to make the specification easy to implement, so if you come
@@ -513,7 +513,7 @@ The chosen data format should be documented in the POUF of the implementation.
 The examples in this document use a subset of the JSON object format, with
 floating-point numbers omitted.  When calculating the digest of an
 object, we use the "canonical JSON" subdialect as described at [Canonical JSON](
-http://wiki.laptop.org/go/Canonical_JSON).
+https://web.archive.org/web/20251209150702/http://wiki.laptop.org/go/Canonical_JSON).
 
 ## File formats: general principles ## {#file-formats-general-principles}
 
