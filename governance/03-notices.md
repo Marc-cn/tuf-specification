@@ -4,8 +4,6 @@
 
 The Update Framework (TUF) is a [Cloud Native Computing Foundation](https://www.cncf.io/) project and follows the [TUF Community Code of Conduct](https://github.com/theupdateframework/community/blob/main/CODE-OF-CONDUCT.md), which follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
-Contact for Code of Conduct issues or inquiries: the CNCF Code of Conduct Committee <conduct@cncf.io>.
-
 ## License Acceptance
 
 Per Community Specification License 1.0 Section 2.1.3.3, Licensees may indicate their acceptance of the Community Specification License by issuing a pull request to the Specification's repository's Notice.md file, including the Licensee's name, authorized individuals' names, and repository system identifier (e.g. GitHub ID), and specification version.
