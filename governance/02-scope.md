@@ -19,6 +19,5 @@ To prevent unintentional intellectual property encumbrance, the following areas 
 * **Transport Protocols:** The definition or standardization of network transport layers or delivery mechanisms (e.g., HTTP, gRPC, IPFS) used to transmit metadata or targets.
 * **Cryptographic Primitives:** The invention, modification, or primary standardization of underlying cryptographic algorithms (e.g., Ed25519, SHA-256). The specification relies entirely on existing cryptographic standards.
 * **Server-Side Architecture:** The design, implementation, and operational architecture of backend repository servers, metadata generation tools, or key management infrastructure at the implementation level. The specification governs the artifacts produced by the server and consumed by clients at an algorithmic level and does not mandate an exact means of producing the information.
-* **Ecosystem-Specific Adaptations:** Platform-specific integrations, package manager implementations, or language-specific APIs (e.g., Python PEP 458/459, Docker Content Trust) beyond the core, language-agnostic specification.
 * 
 Any changes of Scope are not retroactive.
